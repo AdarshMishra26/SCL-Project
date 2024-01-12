@@ -44,7 +44,7 @@ Detailed usage instructions and code explanations can be found in the [documenta
 
 ## Results
 
-The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [ReportSCL-Mohali.pdf](D:\Projects\SCL-Project\ReportSCL-Mohali.pdf) directory.
+The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [ReportSCL-Mohali.pdf](https://github.com/AdarshMishra26/SCL-Project/blob/main/ReportSCL-Mohali.pdf) directory.
 
 
 ## License
