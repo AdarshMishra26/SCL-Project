@@ -40,15 +40,12 @@ git clone https://github.com/your-username/SCL-Project.git
 
 ## Usage
 
-Detailed usage instructions and code explanations can be found in the [documentation](docs/).
+Detailed usage instructions and code explanations can be found in the [documentation](D:\Projects\SCL-Project\ReportSCL-Mohali.pdf).
 
 ## Results
 
-The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [results](results/) directory.
+The results of the experimental analysis, CV plots, and findings related to the identification of fabrication facilities are documented in the [ReportSCL-Mohali.pdf](D:\Projects\SCL-Project\ReportSCL-Mohali.pdf) directory.
 
-## Contributing
-
-If you would like to contribute to this project, please follow the [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
