@@ -11,7 +11,6 @@ Welcome to the GitHub repository for the internship conducted at SCL Mohali in t
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
