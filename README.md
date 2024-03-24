@@ -32,7 +32,7 @@ To use the code in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/SCL-Project.git
+git clone https://github.com/AdarshMishra26/SCL-Project.git
 ```
 
 2. Install any necessary dependencies mentioned in the documentation.
